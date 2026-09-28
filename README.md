@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**jn-betancourt/jn-betancourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Antonio Betancourt
 
-Here are some ideas to get you started:
+Ingeniero en Sistemas y Computación · Universidad del Quindío · Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construyo software backend y me encargo de que funcione en producción: desde la arquitectura hasta el pipeline que lo despliega. En los últimos dos años he trabajado principalmente de forma independiente, lo que me obligó a entender cada capa del sistema, no solo el código.
+
+Disponible para trabajo remoto y proyectos freelance.
+
+---
+
+## Stack principal
+
+**Backend** — Java con Spring Boot, Python con FastAPI o Django según el caso  
+**Infraestructura** — Docker · Podman · GitHub Actions · Microsoft Azure  
+**Bases de datos** — PostgreSQL · MySQL · MongoDB  
+**Prácticas** — CI/CD · análisis estático · control de versiones
+
+---
+
+## Proyectos
+
+### [Sistema POS](#)  ·  `Java` `Spring Boot` `Docker` `Azure` `GitHub Actions`
+
+Sistema de ventas e inventario construido desde cero y mantenido en producción por más de dos años. Incluye API REST, módulo de control de stock con alertas, pipeline CI/CD completo y despliegue automatizado en Azure.
+
+---
+
+> Portafolio en construcción — más proyectos próximamente en [mi sitio](#).
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/juan-betancourt08)  ·  [jnbetancourt08@gmail.com](mailto:jnbetancourt08@gmail.com)  ·  [Portafolio](#)

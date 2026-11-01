@@ -27,7 +27,7 @@ Sistema de ventas e inventario construido desde cero y mantenido en producción 
 
 ---
 
-> Portafolio en construcción — más proyectos próximamente en [mi sitio](#).
+> [mi sitio](www.ingeniero.app).
 
 ---
 

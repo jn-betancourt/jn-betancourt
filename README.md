@@ -33,4 +33,4 @@ Sistema de ventas e inventario construido desde cero y mantenido en producción 
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/juan-betancourt08)  ·  [jnbetancourt08@gmail.com](mailto:jnbetancourt08@gmail.com)  ·  [Portafolio](#)
+[LinkedIn](https://www.linkedin.com/in/juan-betancourt08)  ·  [juan.betancourt@ingeniero.app](mailto:juan.betancourt@ingeniero.app)  ·  [portafolio](www.ingeniero.app)
